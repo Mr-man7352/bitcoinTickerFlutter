@@ -1,4 +1,4 @@
-package co.appbrewery.bitcoin_ticker;
+package in.macstak.bitcoin_ticker;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
